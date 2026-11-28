@@ -1,15 +1,6 @@
-# Title: Scam Block List
-# Description: Scam domains
-# Homepage: https://github.com/blocklistproject/Lists
-# License: MIT
-# Last modified: 2026-07-18 01:33:08 UTC
-# Format: hosts
-# Entries: 8,527
-# URL: 
-#
-# This list is maintained by The Block List Project
-# https://github.com/blocklistproject/Lists
-#
+# Scam Blocklist
+# Updated by upstream monitoring
+# Date: 2026-11-28T09:42:42.994524
 
 0.0.0.0 0-google.com
 0.0.0.0 007-dvd.com
@@ -41,6 +32,7 @@
 0.0.0.0 18y.net
 0.0.0.0 1a-gewinner.de
 0.0.0.0 1bit1.com
+0.0.0.0 1hero.net
 0.0.0.0 1maxdegay.com
 0.0.0.0 1n.yarrid.com
 0.0.0.0 1oveplanet.ru
@@ -136,6 +128,7 @@
 0.0.0.0 9to5outlet.com
 0.0.0.0 a0000365-wwwtodayspetcom.us.aldryn.io
 0.0.0.0 a1weedshop.com
+0.0.0.0 a1xj1.com
 0.0.0.0 a3lann.com
 0.0.0.0 aacipt.com
 0.0.0.0 aavartanaagroup.com
@@ -207,7 +200,9 @@
 0.0.0.0 actuallyt.com
 0.0.0.0 actualous.com
 0.0.0.0 acutepharmacy.com
+0.0.0.0 ad-dirtyzone.com
 0.0.0.0 ad-extremesite.com
+0.0.0.0 ad-milfarea.com
 0.0.0.0 adamscountytimes.com
 0.0.0.0 adamslivestocksfarming.co.za
 0.0.0.0 adareporter.com
@@ -237,6 +232,7 @@
 0.0.0.0 adultere-messenger.com
 0.0.0.0 adultere-rencontre.fr
 0.0.0.0 adulteres.org
+0.0.0.0 adulterio.pt
 0.0.0.0 adultery.ch
 0.0.0.0 adultery.es
 0.0.0.0 adultflirtfinders.com
@@ -329,6 +325,7 @@
 0.0.0.0 aksupercarsautomobile.co.za
 0.0.0.0 aladdinwatermat.com
 0.0.0.0 alamo15trigger.com
+0.0.0.0 alamotriggers.us.com
 0.0.0.0 alanteacuppuppybreederhome.com
 0.0.0.0 albanystandard.com
 0.0.0.0 alektrustlogistics.com
@@ -428,6 +425,7 @@
 0.0.0.0 amisexuel.fr
 0.0.0.0 amiytech.com
 0.0.0.0 ammjaflk.ru
+0.0.0.0 ammobythebulk.us.com
 0.0.0.0 ammodepotshop.com
 0.0.0.0 ammoexpertzone.com
 0.0.0.0 ammofield.com
@@ -439,6 +437,7 @@
 0.0.0.0 ammoterra.com
 0.0.0.0 ammovalleydepot.com
 0.0.0.0 ammunition-store.com
+0.0.0.0 ammunitioncamp.us.com
 0.0.0.0 ammunitiongunbroker.com
 0.0.0.0 ammunitionreloadstorecanada.com
 0.0.0.0 ammunitionseeker.com
@@ -468,6 +467,7 @@
 0.0.0.0 androidusbdrivers.com
 0.0.0.0 aneedtools.com
 0.0.0.0 anexplicit.com
+0.0.0.0 angebotemesser.com
 0.0.0.0 angelpawsfund.com
 0.0.0.0 angelpawsfund.org
 0.0.0.0 angelstee.com
@@ -693,6 +693,7 @@
 0.0.0.0 avestaltd.com
 0.0.0.0 avfair.com
 0.0.0.0 avoidmosquito.com
+0.0.0.0 avventuragay.com
 0.0.0.0 awakencheerful.com
 0.0.0.0 awardinive.com
 0.0.0.0 awardsequence.com
@@ -782,6 +783,7 @@
 0.0.0.0 beansolutions.co.za
 0.0.0.0 bear-archerystore.com
 0.0.0.0 beararcheryshop.com
+0.0.0.0 beararcherystoreusa.com
 0.0.0.0 bearlylegalhemp.com
 0.0.0.0 bearmory.com
 0.0.0.0 beast-fox.com
@@ -803,6 +805,7 @@
 0.0.0.0 beinthevein.com
 0.0.0.0 bellissima.co
 0.0.0.0 bemadeofcute.com
+0.0.0.0 benchmadecamp.us.com
 0.0.0.0 benecharm.com
 0.0.0.0 benefcial.com
 0.0.0.0 beneficialk.com
@@ -846,11 +849,13 @@
 0.0.0.0 bestehaustierezuhaus.de
 0.0.0.0 bestessays.com.au
 0.0.0.0 bestetter.com
+0.0.0.0 bestfirearmsaccessories.com
 0.0.0.0 bestfirearmstore.com
 0.0.0.0 bestfive.main.jp
 0.0.0.0 bestglockgunstores.com
 0.0.0.0 bestgunssale.com
 0.0.0.0 bestgunstore.org
+0.0.0.0 bestgunzshop.com
 0.0.0.0 bestkittenshome.com
 0.0.0.0 bestmetaltrade.com
 0.0.0.0 bestmoonshop.com
@@ -920,6 +925,7 @@
 0.0.0.0 biographyk.com
 0.0.0.0 biohealthpharma.net.au
 0.0.0.0 bionixcorpp.com
+0.0.0.0 biovenic.com
 0.0.0.0 bipubunny.com
 0.0.0.0 birdbreedersclassifieds.com
 0.0.0.0 birdbreederstore.com
@@ -962,6 +968,7 @@
 0.0.0.0 blaujade.com
 0.0.0.0 blazcstant.com
 0.0.0.0 blazedripe.com
+0.0.0.0 blckhawkarmory.com
 0.0.0.0 blindtee.com
 0.0.0.0 blingyy.com
 0.0.0.0 blisswish.net
@@ -1051,6 +1058,7 @@
 0.0.0.0 breakingnews365.net
 0.0.0.0 breakshirts.com
 0.0.0.0 breaktshirt.com
+0.0.0.0 breathegreen.com
 0.0.0.0 breedershaven.co.za
 0.0.0.0 breepa.com
 0.0.0.0 breezelly.com
@@ -1058,6 +1066,7 @@
 0.0.0.0 brevardsun.com
 0.0.0.0 brianmillerr.us
 0.0.0.0 brieftyly.com
+0.0.0.0 brightfuturefoundations.com
 0.0.0.0 brighthave.com
 0.0.0.0 brightmeteors.com
 0.0.0.0 briibio.com
@@ -1100,7 +1109,9 @@
 0.0.0.0 bulbcrook.com
 0.0.0.0 buletboard.com
 0.0.0.0 bulkammousa.com
+0.0.0.0 bulkammunation.us.com
 0.0.0.0 bulkammunitionshop.com
+0.0.0.0 bulkmunitionsdepot.com
 0.0.0.0 bull-option.com
 0.0.0.0 bullionoption.org
 0.0.0.0 bulliontrade24.com
@@ -1112,6 +1123,7 @@
 0.0.0.0 buonastelle.com
 0.0.0.0 burgershirt.com
 0.0.0.0 burlingtonreporter.com
+0.0.0.0 bushmasterguns.com
 0.0.0.0 bustlight.com
 0.0.0.0 busty-hookups.com
 0.0.0.0 butlercountytoday.com
@@ -1123,6 +1135,7 @@
 0.0.0.0 buycaliweedonline.com
 0.0.0.0 buycards.ir
 0.0.0.0 buycheapammoonline.com
+0.0.0.0 buyclarityblueglasses.com
 0.0.0.0 buyclsus.com
 0.0.0.0 buycocaineshop.com
 0.0.0.0 buycolombiancoke.com
@@ -1224,6 +1237,7 @@
 0.0.0.0 candypop.fr
 0.0.0.0 candyshop.com
 0.0.0.0 canecorsopuppiesforsales.com
+0.0.0.0 canikfirearmsshop.com
 0.0.0.0 cannabisavenue.net
 0.0.0.0 cannabiscurecenter.com
 0.0.0.0 cannabiscureshop.com
@@ -1690,6 +1704,7 @@
 0.0.0.0 coquineinfidele.com
 0.0.0.0 cordialous.com
 0.0.0.0 corg.co
+0.0.0.0 corgiai.xyz
 0.0.0.0 corgipuppies.homesteadcloud.com
 0.0.0.0 corlorsky.com
 0.0.0.0 cornhuskerstatenews.com
@@ -1729,6 +1744,7 @@
 0.0.0.0 counterfeitsolutionlab.com
 0.0.0.0 counteripart.com
 0.0.0.0 countrynightzranch.com
+0.0.0.0 countrywidesports.com
 0.0.0.0 couriontesy.com
 0.0.0.0 courteoust.com
 0.0.0.0 cousinsuk.com
@@ -1742,6 +1758,7 @@
 0.0.0.0 cr-brands.net
 0.0.0.0 cradlewaver.com
 0.0.0.0 crafsouvent.com
+0.0.0.0 craigsmunitions.com
 0.0.0.0 craptraffic.com
 0.0.0.0 createcharms.com
 0.0.0.0 createmarvel.com
@@ -1819,6 +1836,11 @@
 0.0.0.0 cuterussianonline.com
 0.0.0.0 cutesthavanese.com
 0.0.0.0 cutestpugpuppieshome.zohosites.com
+0.0.0.0 cvafirearmsamerica.com
+0.0.0.0 cvafirearmshop.com
+0.0.0.0 cvafirearmsusa.com
+0.0.0.0 cvagunshop.com
+0.0.0.0 cvamuzzleloaders.com
 0.0.0.0 cwsone.in
 0.0.0.0 cybergirl.de
 0.0.0.0 cyberrandka.pl
@@ -1831,6 +1853,8 @@
 0.0.0.0 czarmshopusa.com
 0.0.0.0 czfirearmshop.com
 0.0.0.0 czgunbrokers.com
+0.0.0.0 czgunsusa.com
+0.0.0.0 czgunsusastore.com
 0.0.0.0 czusafirearmshop.com
 0.0.0.0 czusafirearmstore.com
 0.0.0.0 czusagunstore.com
@@ -1861,6 +1885,7 @@
 0.0.0.0 dallascowboyshome.com
 0.0.0.0 dame-cougar.com
 0.0.0.0 dancewithdream.com
+0.0.0.0 danieldefensestore.com
 0.0.0.0 dank420cartridges.com
 0.0.0.0 dankvapesuppliers.com
 0.0.0.0 dankwoodhouse.com
@@ -1876,6 +1901,7 @@
 0.0.0.0 darkpistols.com
 0.0.0.0 darkwebmarketbuyer.com
 0.0.0.0 darlingtonhomepuppies.co.za
+0.0.0.0 daryl.lol
 0.0.0.0 daschnundadopt.shop
 0.0.0.0 dasilia.com
 0.0.0.0 data-regulate.com
@@ -2020,6 +2046,7 @@
 0.0.0.0 diamondarcheryusa.com
 0.0.0.0 diamondbackarmusa.com
 0.0.0.0 diamondpaintinglovers.com
+0.0.0.0 diamondx.com
 0.0.0.0 dietdiney.com
 0.0.0.0 difranzgifts.com
 0.0.0.0 digicrime.com
@@ -2090,11 +2117,13 @@
 0.0.0.0 dogsnow.com
 0.0.0.0 dogstrom.co
 0.0.0.0 doingfeelfree.com
+0.0.0.0 dollysheeptee.com
 0.0.0.0 domainnetworks.com
 0.0.0.0 dominatedecide.com
 0.0.0.0 dominicpsychedelic.com
 0.0.0.0 donneadulte.com
 0.0.0.0 donotbealone.com
+0.0.0.0 doobaba.com
 0.0.0.0 doodlecreek.com
 0.0.0.0 dopechemicals.com
 0.0.0.0 dorchestertoday.com
@@ -2111,6 +2140,7 @@
 0.0.0.0 downloading.get-cracked.com
 0.0.0.0 downrivertoday.com
 0.0.0.0 dpd-speditions.com
+0.0.0.0 dpdiagonal.com
 0.0.0.0 dpdshippingagency.com
 0.0.0.0 drabcoplex.com
 0.0.0.0 dragonmedicalsoftware.com
@@ -2201,6 +2231,7 @@
 0.0.0.0 earthfurever.com
 0.0.0.0 earthprose.com
 0.0.0.0 easecutecloud.com
+0.0.0.0 easewild.com
 0.0.0.0 easiiosports.com
 0.0.0.0 eastalamedanews.com
 0.0.0.0 eastarapahoenews.com
@@ -2273,6 +2304,7 @@
 0.0.0.0 easypayweb.com
 0.0.0.0 easyrandka.pl
 0.0.0.0 easyrencontre.com
+0.0.0.0 easyrencontres.com
 0.0.0.0 easysexcontacts.com
 0.0.0.0 easyshoppingus.com
 0.0.0.0 easywaycargolc.com
@@ -2327,6 +2359,7 @@
 0.0.0.0 ejgiftcards.com
 0.0.0.0 eksofy.com
 0.0.0.0 elaborate-volume.com
+0.0.0.0 elaborateago.com
 0.0.0.0 elaboratein.com
 0.0.0.0 elaka.lk
 0.0.0.0 elapseend.com
@@ -2389,12 +2422,14 @@
 0.0.0.0 enclosurea.com
 0.0.0.0 encontro-gay.com
 0.0.0.0 encontro-rapido.com
+0.0.0.0 encontroparasexo.com
 0.0.0.0 encontros-casuais.com
 0.0.0.0 encontros-cougar.com
 0.0.0.0 encontros-picantes.com
 0.0.0.0 encontros-rapidos.com
 0.0.0.0 encontrosamorosos.pt
 0.0.0.0 encontroscasuais.net
+0.0.0.0 encontrosinfieis.com
 0.0.0.0 encontroslocais.com
 0.0.0.0 encontrosmaduras.com
 0.0.0.0 encontrosxxx.com
@@ -2572,6 +2607,9 @@
 0.0.0.0 exteriorday.net
 0.0.0.0 exteriorm.com
 0.0.0.0 externaln.com
+0.0.0.0 extraconjugais.com
+0.0.0.0 extraconjugale.be
+0.0.0.0 extraconjugale.ch
 0.0.0.0 extraconjugale.com
 0.0.0.0 extraconjugales.com
 0.0.0.0 extraconjugales.fr
@@ -2626,6 +2664,7 @@
 0.0.0.0 fancycentral.com
 0.0.0.0 fancyingkind.com
 0.0.0.0 fancytion.com
+0.0.0.0 fantasmez.com
 0.0.0.0 fantasyfeeder.com
 0.0.0.0 fantatey.com
 0.0.0.0 fapst.com
@@ -2712,6 +2751,7 @@
 0.0.0.0 fintrustb.com
 0.0.0.0 fiocchiofficial.com
 0.0.0.0 firearmandammunition.com
+0.0.0.0 firearmhobbystore.com
 0.0.0.0 firearms-accessoriesstore.com
 0.0.0.0 firearms-alabama.com
 0.0.0.0 firearms-guns.com
@@ -2725,6 +2765,8 @@
 0.0.0.0 firearmsdispensary.com
 0.0.0.0 firearmsfrenzy.com
 0.0.0.0 firearmshopusa.com
+0.0.0.0 firearmspartshop.com
+0.0.0.0 firearmsspace.com
 0.0.0.0 firearmsstorecanada.com
 0.0.0.0 firemid.com
 0.0.0.0 firmadmire.com
@@ -2805,6 +2847,7 @@
 0.0.0.0 forbeardless.com
 0.0.0.0 forbiddenflirts.com
 0.0.0.0 force-gay.com
+0.0.0.0 forcedresettriggersco.com
 0.0.0.0 forcefulliber.com
 0.0.0.0 forcegay.com
 0.0.0.0 forcegay.es
@@ -2842,6 +2885,7 @@
 0.0.0.0 fraavy.com
 0.0.0.0 fragrantk.com
 0.0.0.0 francesca-offers.com
+0.0.0.0 franchiguns.com
 0.0.0.0 franchisingcity.com
 0.0.0.0 frankpompups.net
 0.0.0.0 frcisforce.com
@@ -3105,6 +3149,7 @@
 0.0.0.0 giftcardstore.ir
 0.0.0.0 giftcardwarehouse.ca
 0.0.0.0 giftcodes.me
+0.0.0.0 giftscardbalance.com
 0.0.0.0 giftshq.club
 0.0.0.0 gileadfirearms.com
 0.0.0.0 giphogantic.com
@@ -3127,6 +3172,7 @@
 0.0.0.0 glmeaerdh.com
 0.0.0.0 global-tranzlogistics.com
 0.0.0.0 global420dispensary.com
+0.0.0.0 globalammodepot.com
 0.0.0.0 globalarmsonline.com
 0.0.0.0 globalarmsstore.com
 0.0.0.0 globalcoinsmine.com
@@ -3175,6 +3221,7 @@
 0.0.0.0 godblue.net
 0.0.0.0 godeskonettbutikk.com
 0.0.0.0 goduckee.com
+0.0.0.0 goexblackpowderusa.com
 0.0.0.0 gogodusk.com
 0.0.0.0 gold-herbst.de
 0.0.0.0 gold-support.com
@@ -3202,6 +3249,7 @@
 0.0.0.0 gonortoncom-setup.com
 0.0.0.0 gooddealm.com
 0.0.0.0 gooddog.com
+0.0.0.0 goodfirearmsaccessories.com
 0.0.0.0 goodfirms.co
 0.0.0.0 goodfondfor.com
 0.0.0.0 goodjobfull.com
@@ -3242,10 +3290,12 @@
 0.0.0.0 grandrapidsreporter.com
 0.0.0.0 grannysexdates.com
 0.0.0.0 granpashirts.com
+0.0.0.0 grantandmorgan.com
 0.0.0.0 graphicteestore.com
 0.0.0.0 grasoftness.com
 0.0.0.0 grasylten.com
 0.0.0.0 graviaus.com
+0.0.0.0 gravityknivesco.com
 0.0.0.0 graysontimes.com
 0.0.0.0 greatcomfy.com
 0.0.0.0 greatlakeswire.com
@@ -3297,6 +3347,7 @@
 0.0.0.0 guestreservations.com
 0.0.0.0 guidehue.com
 0.0.0.0 guishdistin.com
+0.0.0.0 gulf.support
 0.0.0.0 gulfaao.org
 0.0.0.0 gulfnewsjournal.com
 0.0.0.0 gun-prices.com
@@ -3308,6 +3359,7 @@
 0.0.0.0 gunandarmory.com
 0.0.0.0 gunfactory.eu
 0.0.0.0 gunmeplug.com
+0.0.0.0 gunnersarms.com
 0.0.0.0 gunsalesworld.com
 0.0.0.0 gunsdeal.org
 0.0.0.0 gunsforsale.shop
@@ -3323,6 +3375,7 @@
 0.0.0.0 gutterprotectiondeals.com
 0.0.0.0 gymnasiumk.com
 0.0.0.0 habittees.com
+0.0.0.0 hack-email.org
 0.0.0.0 hack.get-cracked.com
 0.0.0.0 hackerslist.co
 0.0.0.0 hadmodest.com
@@ -3355,6 +3408,7 @@
 0.0.0.0 hardwagalery.com
 0.0.0.0 harfordnews.com
 0.0.0.0 harlequinpaws.com
+0.0.0.0 harleycle.com
 0.0.0.0 harmoniousy.com
 0.0.0.0 harmoniout.com
 0.0.0.0 harmoniouy.com
@@ -3437,6 +3491,7 @@
 0.0.0.0 hightradebn.com
 0.0.0.0 hihiglobal.com
 0.0.0.0 hillcountrychronicle.com
+0.0.0.0 hillcrestpaws.co.za
 0.0.0.0 hillsidinn.com
 0.0.0.0 hiltonheadreporter.com
 0.0.0.0 himalayankraft.in
@@ -3453,6 +3508,7 @@
 0.0.0.0 hkgunstore.com
 0.0.0.0 hmccommerce.com
 0.0.0.0 hmebillpay.com
+0.0.0.0 hnamarineparts.com
 0.0.0.0 hoesfetrt.com
 0.0.0.0 holdonpretty.com
 0.0.0.0 hollandreporter.com
@@ -3570,6 +3626,7 @@
 0.0.0.0 icloudunlocker.ir
 0.0.0.0 iclunlock.com
 0.0.0.0 ictable.com
+0.0.0.0 idaho-gunshop.com
 0.0.0.0 idalimvnus.com
 0.0.0.0 idandpassports.com
 0.0.0.0 idaoffice.org
@@ -3653,6 +3710,7 @@
 0.0.0.0 individtual.com
 0.0.0.0 individuak.com
 0.0.0.0 individualact.com
+0.0.0.0 indoorsarmory.net
 0.0.0.0 inductioy.com
 0.0.0.0 industrialchemlabs.com
 0.0.0.0 indystandard.com
@@ -3671,14 +3729,18 @@
 0.0.0.0 inflow-ns.com
 0.0.0.0 influencte.com
 0.0.0.0 info-bdsmzone.com
+0.0.0.0 info-chatdome.com
 0.0.0.0 info-dirtyzone2.com
 0.0.0.0 info-drivers.ru
+0.0.0.0 info-eroticroulette.com
 0.0.0.0 info-extremechat.com
 0.0.0.0 info-extremesite.com
 0.0.0.0 info-fetish-singles.com
 0.0.0.0 info-fetoo.com
+0.0.0.0 info-idates.com
 0.0.0.0 info-lustchat.com
 0.0.0.0 info-maturespace.com
+0.0.0.0 info-mdates.com
 0.0.0.0 info-milfarea.com
 0.0.0.0 info-milfme.com
 0.0.0.0 info-milfplace.com
@@ -3769,6 +3831,7 @@
 0.0.0.0 iqtradeoption.com
 0.0.0.0 irealtyedge.com
 0.0.0.0 irkaspersky.com
+0.0.0.0 ironarmco.com
 0.0.0.0 irs-ein-tax-id-number.com
 0.0.0.0 isblows.com
 0.0.0.0 istockoptions.com
@@ -3777,8 +3840,10 @@
 0.0.0.0 isurtalent.com
 0.0.0.0 italiacougar.com
 0.0.0.0 italian-milfs.com
+0.0.0.0 iteeke.store
 0.0.0.0 itinerade.com
 0.0.0.0 itoolmax.com
+0.0.0.0 itprofix.net
 0.0.0.0 itrvatlgth.com
 0.0.0.0 itsjustanumber.com
 0.0.0.0 itunesgenerator.com
@@ -3791,6 +3856,7 @@
 0.0.0.0 jacandsharppapers.com
 0.0.0.0 jackethe.com
 0.0.0.0 jackpotwinner.net
+0.0.0.0 jacksgunshop.cc
 0.0.0.0 jacksonlivestockfarm.co.za
 0.0.0.0 jacksonpurchasenews.com
 0.0.0.0 jacquieetmichel-contact.com
@@ -3808,6 +3874,7 @@
 0.0.0.0 jaraorder.com
 0.0.0.0 jasonammo.com
 0.0.0.0 jasonarms.com
+0.0.0.0 jaysonpuppieshome.co.za
 0.0.0.0 jaywaninc.com
 0.0.0.0 je-decouvre.fr
 0.0.0.0 jeepmoon.com
@@ -3853,6 +3920,7 @@
 0.0.0.0 journeyinpartner.com
 0.0.0.0 joyfulw.com
 0.0.0.0 joyloveapparel.com
+0.0.0.0 joyyoungimplant.com
 0.0.0.0 jpmarkets.co.za
 0.0.0.0 jsbclabs.com
 0.0.0.0 jtetrompe.com
@@ -3877,6 +3945,7 @@
 0.0.0.0 k2spicesprayshop.com
 0.0.0.0 kaarifireflye.com
 0.0.0.0 kacom.ch
+0.0.0.0 kadfirearms.com
 0.0.0.0 kahr-arms.com
 0.0.0.0 kaislogistics.com
 0.0.0.0 kalamazootimes.com
@@ -3900,6 +3969,7 @@
 0.0.0.0 kaylamaltesehome.com
 0.0.0.0 kazwex.com
 0.0.0.0 kcreporter.com
+0.0.0.0 kctacticalshop.com
 0.0.0.0 kdoubleh.com
 0.0.0.0 keen.com
 0.0.0.0 keeninquire.com
@@ -3957,6 +4027,8 @@
 0.0.0.0 kiveken.com
 0.0.0.0 knewpets.com
 0.0.0.0 kngkey.com
+0.0.0.0 knifebestech.com
+0.0.0.0 knifecivivi.com
 0.0.0.0 knightsgunstore.com
 0.0.0.0 knightsgunsusa.com
 0.0.0.0 knitlacedy.com
@@ -4082,6 +4154,7 @@
 0.0.0.0 lgusbdriver.com
 0.0.0.0 liablemotivate.net
 0.0.0.0 libecampus.com
+0.0.0.0 libertincatrin.com
 0.0.0.0 libertine-rencontre.com
 0.0.0.0 libertyammunitions.com
 0.0.0.0 libertylocalminersltd.com
@@ -4091,6 +4164,7 @@
 0.0.0.0 licensedguntrade.com
 0.0.0.0 lickingtoday.com
 0.0.0.0 licon-investment.com
+0.0.0.0 lidyas.com
 0.0.0.0 liebeblau.com
 0.0.0.0 liebefami.de
 0.0.0.0 liebesaison.de
@@ -4144,6 +4218,7 @@
 0.0.0.0 livingstontoday.com
 0.0.0.0 lizenzeuropa.com
 0.0.0.0 ljzsoft.com
+0.0.0.0 llsexy.com
 0.0.0.0 loaloeloaeeo.com
 0.0.0.0 loanverifiers.com
 0.0.0.0 loasp.com
@@ -4154,6 +4229,7 @@
 0.0.0.0 localbdsmdating.com
 0.0.0.0 localpuppygroomers.com
 0.0.0.0 localsnog.co.uk
+0.0.0.0 location-tool.com
 0.0.0.0 locomotivk.com
 0.0.0.0 loganpaulrace.com
 0.0.0.0 logicalne.com
@@ -4182,6 +4258,7 @@
 0.0.0.0 lopqac.com
 0.0.0.0 loraintimes.com
 0.0.0.0 lordteeshirt.com
+0.0.0.0 lorenzo-eg.com
 0.0.0.0 lorifygleam.com
 0.0.0.0 losangelesquickbookshelp.com
 0.0.0.0 lottery-btc.com
@@ -4194,6 +4271,7 @@
 0.0.0.0 love-planet.ru
 0.0.0.0 love-you.ru
 0.0.0.0 loveaholics.com
+0.0.0.0 loveandpaws.org
 0.0.0.0 lovebene.ru
 0.0.0.0 lovedateme.com
 0.0.0.0 lovefoison.com
@@ -4254,6 +4332,7 @@
 0.0.0.0 lusthookup.com
 0.0.0.0 luvdragon.com
 0.0.0.0 luvinstars.com
+0.0.0.0 luxefyx.com
 0.0.0.0 luxekitchenware.co.za
 0.0.0.0 luxekittens.co.za
 0.0.0.0 luxsgear.com
@@ -4277,6 +4356,7 @@
 0.0.0.0 macrolaneforsale.com
 0.0.0.0 madisonreporter.com
 0.0.0.0 madurascontactos.com
+0.0.0.0 madurasejovens.com
 0.0.0.0 madurasgostosas.com
 0.0.0.0 madworldnews.com
 0.0.0.0 maersklinesllc.dx.am
@@ -4342,6 +4422,7 @@
 0.0.0.0 marketingdirect.lu
 0.0.0.0 marleytecnologica.com
 0.0.0.0 marlinfirearms-shop.com
+0.0.0.0 marlinfirearmsstoreusa.com
 0.0.0.0 marlinguns.com
 0.0.0.0 marlinrifleshopusa.com
 0.0.0.0 marmosethaven.com
@@ -4501,6 +4582,7 @@
 0.0.0.0 miamitaxreturn.com
 0.0.0.0 miangifts.com
 0.0.0.0 micapitolnews.com
+0.0.0.0 michigan-gunshop.com
 0.0.0.0 mick-ammodepot.com
 0.0.0.0 micprosorce.com
 0.0.0.0 microdosing-healing.com
@@ -4514,6 +4596,7 @@
 0.0.0.0 midcoasttimes.com
 0.0.0.0 mideluxe.com
 0.0.0.0 midfirearms.com
+0.0.0.0 midguns.com
 0.0.0.0 midlandstrust.com
 0.0.0.0 midnightchalice.store
 0.0.0.0 midvalleyreporter.com
@@ -4558,6 +4641,7 @@
 0.0.0.0 miniature-schnauzer-for-adoption.business.site
 0.0.0.0 miniaturem.com
 0.0.0.0 minibrick.net
+0.0.0.0 minidachshundspuppies.com
 0.0.0.0 minigolden.com
 0.0.0.0 minimepillow.com
 0.0.0.0 minipuppieszone.com
@@ -4638,6 +4722,7 @@
 0.0.0.0 morristowntimes.com
 0.0.0.0 moseslaketoday.com
 0.0.0.0 moslt.com
+0.0.0.0 mossbergarmsonline.com
 0.0.0.0 mossbergfirearms.org
 0.0.0.0 mostcheerful.com
 0.0.0.0 moteshoes.com
@@ -4652,6 +4737,7 @@
 0.0.0.0 mrchoicelabs.com
 0.0.0.0 mrcialis.com
 0.0.0.0 mrgeeks.co.uk
+0.0.0.0 mrsfieldsshop.com
 0.0.0.0 msgulfnews.com
 0.0.0.0 mssupport.tech
 0.0.0.0 msuschatsupport.com
@@ -4663,6 +4749,8 @@
 0.0.0.0 muentastard.com
 0.0.0.0 mulheres-maduras.net
 0.0.0.0 mulheresinfieis.com
+0.0.0.0 mulheresmaduras.pt
+0.0.0.0 mulheresnegras.net
 0.0.0.0 mulheressolteiras.net
 0.0.0.0 multicoins.co
 0.0.0.0 multiplym.com
@@ -4675,6 +4763,7 @@
 0.0.0.0 muskegonsun.com
 0.0.0.0 muslimlove.ru
 0.0.0.0 muthaafoundation.org
+0.0.0.0 muzzle-loadershop.com
 0.0.0.0 mv.wiesengrund-sylt.com
 0.0.0.0 mvptrend.com
 0.0.0.0 mxguns.com
@@ -4760,6 +4849,7 @@
 0.0.0.0 mysteriousseductress.com
 0.0.0.0 mysterygiftsplus.com
 0.0.0.0 mystitich4u.com
+0.0.0.0 mystockupusa.com
 0.0.0.0 mytenmerch.com
 0.0.0.0 myticketstoindia.com
 0.0.0.0 myusbdrivers.com
@@ -4771,6 +4861,7 @@
 0.0.0.0 naiti-sex.ru
 0.0.0.0 nakedwinesplc.co.uk
 0.0.0.0 namemory.co.uk
+0.0.0.0 namorogay.pt
 0.0.0.0 namoros.pt
 0.0.0.0 nanhapodha.com
 0.0.0.0 nanistores.com
@@ -5131,6 +5222,7 @@
 0.0.0.0 okdrugstore.com
 0.0.0.0 okeechobeetimes.com
 0.0.0.0 okfunapp.com
+0.0.0.0 okhall.com
 0.0.0.0 oklahoma-gunshop.com
 0.0.0.0 oldcooldates.com
 0.0.0.0 oldcube.com
@@ -5279,6 +5371,7 @@
 0.0.0.0 ozioneiget.com
 0.0.0.0 ozzyfuckslut.com
 0.0.0.0 p.promotionsonlineusa.com
+0.0.0.0 p80camp.us.com
 0.0.0.0 pacegloballogistics.com
 0.0.0.0 paceoptions.com
 0.0.0.0 pacific-shipping.com
@@ -5287,6 +5380,7 @@
 0.0.0.0 pacificnorthwestmunitions.net
 0.0.0.0 pacificpremierlaw.com
 0.0.0.0 pacificshippinglogistics.com
+0.0.0.0 padoraofficial.com
 0.0.0.0 paidsurveys.com
 0.0.0.0 painlesspath.org
 0.0.0.0 painmedsrx.com
@@ -5442,6 +5536,7 @@
 0.0.0.0 petroplexnews.com
 0.0.0.0 pets4ever.shop
 0.0.0.0 pettnicey.com
+0.0.0.0 pewdify.io
 0.0.0.0 phalenopin.com
 0.0.0.0 pharaohstore.com
 0.0.0.0 pharmacious.com
@@ -5618,6 +5713,7 @@
 0.0.0.0 pridesocial.net
 0.0.0.0 primadobermans.com
 0.0.0.0 primarilyn.com
+0.0.0.0 primaryultralightarms.com
 0.0.0.0 primatehaven.com
 0.0.0.0 primatesoftheworld.com
 0.0.0.0 prime-beautyfillers.com
@@ -5865,6 +5961,7 @@
 0.0.0.0 rapportisegreti.it
 0.0.0.0 raptorengines.com
 0.0.0.0 rarebreed-trigger.com
+0.0.0.0 rarebreedfrttriggerusa.com
 0.0.0.0 rarebreedtrigger.io
 0.0.0.0 rarebreedtriggerllc.com
 0.0.0.0 rarecurious.com
@@ -5958,14 +6055,19 @@
 0.0.0.0 reloaderschoiceusa.com
 0.0.0.0 reloadingbrass-store.com
 0.0.0.0 reloadingbrass-usa.com
+0.0.0.0 reloadingdepotusa.com
 0.0.0.0 reloadinggearstore.com
 0.0.0.0 reloadingstockprimers.com
 0.0.0.0 reloadingstocks.com
+0.0.0.0 reloadingsupplieshq.com
 0.0.0.0 reloadit.com
 0.0.0.0 reloadstore.net
 0.0.0.0 remaindery.com
 0.0.0.0 remarkablea.com
 0.0.0.0 remarms.com
+0.0.0.0 remingtonamericaguns.com
+0.0.0.0 remingtonarmsonline.com
+0.0.0.0 remingtonfirearmsonline.com
 0.0.0.0 remingtongun.com
 0.0.0.0 remingtongundepot.com
 0.0.0.0 remingtongunstoreusa.com
@@ -6020,6 +6122,7 @@
 0.0.0.0 rencontreslocales.com
 0.0.0.0 rencontreslocales.fr
 0.0.0.0 rencontretavoisine.com
+0.0.0.0 rencontretranssexuelle.com
 0.0.0.0 rencontreunemoche.com
 0.0.0.0 rendezvouslibertin.com
 0.0.0.0 renewal-kaspersky.ru
@@ -6067,6 +6170,7 @@
 0.0.0.0 retentionh.com
 0.0.0.0 retentiontactical.com
 0.0.0.0 reteowlepena.com
+0.0.0.0 retroarcadegames.us
 0.0.0.0 retrodeliveryservices.com
 0.0.0.0 returnmychild.com
 0.0.0.0 reusingme.com
@@ -6178,6 +6282,7 @@
 0.0.0.0 rutiti.ru
 0.0.0.0 rutlsganicr.com
 0.0.0.0 ruvello.de
+0.0.0.0 rvc.ac.uk
 0.0.0.0 rx-qualityshop.com
 0.0.0.0 rxeasymeds.com
 0.0.0.0 rxglobalpharma.com
@@ -6437,6 +6542,7 @@
 0.0.0.0 shelbyreporter.com
 0.0.0.0 shelbyreview.com
 0.0.0.0 shenandoahvalleynews.com
+0.0.0.0 shenativeshop.com
 0.0.0.0 sherrybirds.org
 0.0.0.0 sherrymon.com
 0.0.0.0 shesoeasy.com
@@ -6455,10 +6561,12 @@
 0.0.0.0 shocayse.com
 0.0.0.0 shoeaddic.com
 0.0.0.0 shootersgunshop.com
+0.0.0.0 shootloverstore.com
 0.0.0.0 shop-support-24x7.com
 0.0.0.0 shopcoltfirearms.com
 0.0.0.0 shopeuvi.com
 0.0.0.0 shopgera.com
+0.0.0.0 shopgoodshub.com
 0.0.0.0 shophillspet.com
 0.0.0.0 shopmustangparts.com
 0.0.0.0 shoponlinesrilanka.com
@@ -6471,6 +6579,7 @@
 0.0.0.0 shopt-shirt.com
 0.0.0.0 shopupretail.com.au
 0.0.0.0 shopusawarehouse.com
+0.0.0.0 shopwithtonymontana.com
 0.0.0.0 shorttermhousing.com
 0.0.0.0 shot-date.com
 0.0.0.0 shotgun-ammunition.com
@@ -6490,11 +6599,13 @@
 0.0.0.0 sigsauer-us.shop
 0.0.0.0 sigsauerannex.com
 0.0.0.0 sigsauerfirearmsshopusa.com
+0.0.0.0 sigsauergunshops.com
 0.0.0.0 sigsauers.shop
 0.0.0.0 sigsauerusaarms.com
 0.0.0.0 siite.pro
 0.0.0.0 sikaripod.com
 0.0.0.0 silenceed.com
+0.0.0.0 silencersusa.com
 0.0.0.0 silkyroadmarket.com
 0.0.0.0 silnews.com
 0.0.0.0 silvercreekdoodles.net
@@ -6573,6 +6684,7 @@
 0.0.0.0 smilenicey.com
 0.0.0.0 smileshoptk.com
 0.0.0.0 smilesmagic.com
+0.0.0.0 smoketee.myshopify.com
 0.0.0.0 smoky-dreams.com
 0.0.0.0 smokymountaintoday.com
 0.0.0.0 smoothlyk.com
@@ -6603,6 +6715,7 @@
 0.0.0.0 solepersonal.com
 0.0.0.0 solid-arms.com
 0.0.0.0 solidarityk.com
+0.0.0.0 solidghostguns.com
 0.0.0.0 solidifyk.com
 0.0.0.0 solidriaty.com
 0.0.0.0 solitudeshop.com
@@ -6735,10 +6848,13 @@
 0.0.0.0 sportif-rencontre.com
 0.0.0.0 sportsapparelgifts.com
 0.0.0.0 sportsapparelmarket.com
+0.0.0.0 sportsmanliveguns.com
 0.0.0.0 sportsmansgunshop.com
 0.0.0.0 sportsmansreloads.com
 0.0.0.0 sportsmansreloadsandguns.com
+0.0.0.0 sportsridge.com
 0.0.0.0 sportswearfanatics.com
+0.0.0.0 sportyvibeclothing.com
 0.0.0.0 sportyzen.com
 0.0.0.0 spotifycentral.store
 0.0.0.0 spotifygiftcard.ir
@@ -6816,6 +6932,7 @@
 0.0.0.0 stoeki.com
 0.0.0.0 stoopelf.com
 0.0.0.0 stopwatts.com
+0.0.0.0 storagesolutionsproduct.com
 0.0.0.0 store-aleteia.org
 0.0.0.0 store-google-play.com
 0.0.0.0 store-kaspersky.ru
@@ -7116,6 +7233,7 @@
 0.0.0.0 tagotee.com
 0.0.0.0 tahagencyltd.com
 0.0.0.0 taibafarms.com
+0.0.0.0 taimatitanium.com
 0.0.0.0 taishan-food.com
 0.0.0.0 takegiftcard.net
 0.0.0.0 takenoticeof.com
@@ -7137,6 +7255,7 @@
 0.0.0.0 taskeasy.com
 0.0.0.0 taurusarmoryusa.com
 0.0.0.0 taurusfirearm.net
+0.0.0.0 taurusg3c.com
 0.0.0.0 taurusgunshopusa.com
 0.0.0.0 taurusgunsonline.com
 0.0.0.0 taurusjudgefirearmsforsale.com
@@ -7159,6 +7278,7 @@
 0.0.0.0 teazze.me
 0.0.0.0 tebe18.ru
 0.0.0.0 technpay.net
+0.0.0.0 techrepair365.com
 0.0.0.0 techserviceus.com
 0.0.0.0 techteesusa.com
 0.0.0.0 techverve247.com
@@ -7288,6 +7408,7 @@
 0.0.0.0 thevitic.onshopbase.com
 0.0.0.0 thewallstreetmarket.com
 0.0.0.0 thewatchstrap.co
+0.0.0.0 thewilsonfamilypalmbeach.com
 0.0.0.0 thewovenblanks.com
 0.0.0.0 theyogamandala.com
 0.0.0.0 thfirstplace.com
@@ -7321,11 +7442,13 @@
 0.0.0.0 tkocartridges.com
 0.0.0.0 tlonsey.com
 0.0.0.0 tmatch.com
+0.0.0.0 tn-guns.com
 0.0.0.0 to-summer.com
 0.0.0.0 toadsforsaleonline.com
 0.0.0.0 tobacconewswire.com
 0.0.0.0 tobiascelebritymusicevents.com
 0.0.0.0 tobuyy.com
+0.0.0.0 together-more.com
 0.0.0.0 tohepoint.com
 0.0.0.0 toiletuk.com
 0.0.0.0 toledoreporter.com
@@ -7365,9 +7488,11 @@
 0.0.0.0 toturnspin.com
 0.0.0.0 tourwaysl.com
 0.0.0.0 toywhirl.site
+0.0.0.0 trabucurionlinecigarshop.com
 0.0.0.0 tracedream.com
 0.0.0.0 traceoption.com
 0.0.0.0 tractorexpress.co.za
+0.0.0.0 tractormowerparts.com
 0.0.0.0 trade-option.org
 0.0.0.0 trade-skins.net
 0.0.0.0 trade2gainfx.com
@@ -7439,6 +7564,7 @@
 0.0.0.0 trinitypoultryfarm.co.za
 0.0.0.0 tripconten.com
 0.0.0.0 triple3.net
+0.0.0.0 triplelpvinyl.com
 0.0.0.0 trippyminds.org
 0.0.0.0 tritino.net
 0.0.0.0 triumphanty.com
@@ -7461,6 +7587,7 @@
 0.0.0.0 tsgexpresscargo.com
 0.0.0.0 tshirtclassic.com
 0.0.0.0 tsnrainbowlogistics.com
+0.0.0.0 ttipitviperfirearms.com
 0.0.0.0 ttrradecompany.com
 0.0.0.0 tube-porno-xxx.com
 0.0.0.0 tucsonstandard.com
@@ -7477,6 +7604,7 @@
 0.0.0.0 tuscaloosaleader.com
 0.0.0.0 tuscarawasnews.com
 0.0.0.0 tusplide.com
+0.0.0.0 tutuwing.com
 0.0.0.0 tvintroductions.com
 0.0.0.0 twc.health
 0.0.0.0 tweakshq.club
@@ -7584,6 +7712,7 @@
 0.0.0.0 usa-hunter.com
 0.0.0.0 usa-passport.com
 0.0.0.0 usa-passport.org
+0.0.0.0 usacavalierpuppies.com
 0.0.0.0 usafis.org
 0.0.0.0 usagoodclothes.com
 0.0.0.0 usagunfactory.com
@@ -7607,6 +7736,7 @@
 0.0.0.0 usfund.org
 0.0.0.0 ushiro.org
 0.0.0.0 usmilitarycamp.com
+0.0.0.0 usniuio.com
 0.0.0.0 uspassport-apply.com
 0.0.0.0 ustaurusguns.com
 0.0.0.0 ustechsupport.com
@@ -7741,17 +7871,21 @@
 0.0.0.0 voyance.net
 0.0.0.0 voyancepure-voyanceserieuse.com
 0.0.0.0 vrsgs.com
+0.0.0.0 vslnailspacollierville.com
+0.0.0.0 w-chat.net
 0.0.0.0 w.onlinepromotionsusa.com
 0.0.0.0 wacoreporter.com
 0.0.0.0 waislenews.com
 0.0.0.0 walove.ru
 0.0.0.0 waltherarmsusa.com
+0.0.0.0 waltherfirearmsusa.com
 0.0.0.0 waltherofficial.com
 0.0.0.0 walthershop.com
 0.0.0.0 waltherusaarms.com
 0.0.0.0 waltherusaguns.com
 0.0.0.0 wandertop.com
 0.0.0.0 wanedo.net
+0.0.0.0 warehousepart.com
 0.0.0.0 warmrainbow.com
 0.0.0.0 warnerrobinstoday.com
 0.0.0.0 warrenclintonnews.com
@@ -7767,6 +7901,7 @@
 0.0.0.0 watchgnome.com
 0.0.0.0 waterfordtoday.com
 0.0.0.0 waterlootimes.com
+0.0.0.0 watracker.org
 0.0.0.0 waukeshatimes.com
 0.0.0.0 wavetshirt.com
 0.0.0.0 waynecountytoday.com
@@ -7789,7 +7924,10 @@
 0.0.0.0 wealthymature.com
 0.0.0.0 weaponsammoreloaded.com
 0.0.0.0 weaponsandarms.net
+0.0.0.0 wearandhome.com
 0.0.0.0 wearesociable.com
+0.0.0.0 wearfreedomproudly.com
+0.0.0.0 weatherbyarms.com
 0.0.0.0 weatherbyfirearmsusa.com
 0.0.0.0 webcamdate.fr
 0.0.0.0 webcontactos.com
@@ -7869,6 +8007,8 @@
 0.0.0.0 westwakenews.com
 0.0.0.0 whaau.net
 0.0.0.0 whatdoesitmean.com
+0.0.0.0 whatracker.com
+0.0.0.0 whatracker.net
 0.0.0.0 whats-sextreff.com
 0.0.0.0 whatssexy.com
 0.0.0.0 whbinder.com
@@ -7892,6 +8032,7 @@
 0.0.0.0 wholoesme.com
 0.0.0.0 wic.support
 0.0.0.0 wichitastandard.com
+0.0.0.0 wideopentriggerco.com
 0.0.0.0 wifeland.com
 0.0.0.0 wifeoftheday.com
 0.0.0.0 wifesluts.com
@@ -7916,6 +8057,7 @@
 0.0.0.0 winchesterarmstore.com
 0.0.0.0 winchestergunshop.com
 0.0.0.0 winchestergunsusa.com
+0.0.0.0 winchesterprimersales.com
 0.0.0.0 winchesterprimerstore.com
 0.0.0.0 windbellstore.com
 0.0.0.0 windgentle.com
@@ -7964,6 +8106,7 @@
 0.0.0.0 worthypraises.com
 0.0.0.0 wot-trigger.com
 0.0.0.0 wottriggersusa.com
+0.0.0.0 wottriggerusa.com
 0.0.0.0 wowgold.ru
 0.0.0.0 wowshirtstore.com
 0.0.0.0 wowviral.net
@@ -8412,6 +8555,7 @@
 0.0.0.0 www.zgalaxytee.com
 0.0.0.0 wwwshopstasiacom.get-cracked.com
 0.0.0.0 wyandottetimes.com
+0.0.0.0 wyliegunstore.com
 0.0.0.0 wyvaro.com
 0.0.0.0 wyviras.com
 0.0.0.0 wyvzo.com
